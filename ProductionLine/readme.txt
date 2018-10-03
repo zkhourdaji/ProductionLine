@@ -1,0 +1,1 @@
+This project is about simulating a production line. The project is multithreaded and synchronized.
