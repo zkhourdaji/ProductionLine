@@ -1,4 +1,7 @@
-
+/*
+ * Zafer Khourdaji
+ * EID: E01251928
+ */
 public class Widget {
 	
 	private int widgetID;

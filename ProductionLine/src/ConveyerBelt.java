@@ -1,4 +1,7 @@
-
+/*
+ * Zafer Khourdaji
+ * EID: E01251928
+ */
 public class ConveyerBelt {
 	
 	public static final int BUFFER_SIZE = 3;

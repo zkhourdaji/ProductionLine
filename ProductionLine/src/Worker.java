@@ -1,4 +1,7 @@
-
+/*
+ * Zafer Khourdaji
+ * EID: E01251928
+ */
 public class Worker implements Runnable {
 
 	// the maximum sleep time for the worker in milliseconds
